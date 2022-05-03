@@ -2,7 +2,7 @@
   
 ## About me
 - I'm 26
-- I’m currently doing my firsts steps in coding
+- Currently doing my firsts steps in coding
    
 ## My goals for 2022
 - Learn as many Computer Languages as I can
